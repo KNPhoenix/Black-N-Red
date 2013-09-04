@@ -1,0 +1,10 @@
+HTML Color Codes for Black-N-Red Theme
+
+
+Red Layer
+Base Red Top : bc0000
+Black bottom: 000000
+
+Grey Layer
+Top White: FFFFFF
+Grey Bottom: 444444
