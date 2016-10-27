@@ -1,8 +1,9 @@
 # The Black-N-Red iOS Theme
 ## by WiggyWunka
 
-# UPDATE:
-## PROJECT OFFICIALLY RETIRED
+UPDATE:
+PROJECT OFFICIALLY RETIRED
+
 I have decided to completely give up on this project. I have no interest in updating this theme set for any new iOS versions or porting the theme to any other devices.
 
 
